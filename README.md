@@ -1,4 +1,4 @@
-``making stuff.``
+**`making stuff`**
 
 <div align="left">
   <img src="https://rustacean.net/assets/rustacean-flat-happy.svg" height="40" alt="rust logo"/>
